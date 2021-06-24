@@ -2,6 +2,7 @@
 
 void AddContact()
 {
+	printf("\nSuccessfully added new contact.");
 
 }
 void DisplayContact()
